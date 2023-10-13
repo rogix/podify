@@ -20,7 +20,7 @@
 
 	<section class="glass-section">
 		<aside class="genres">
-			<h2>podfy</h2>
+			<h2>podify</h2>
 
 			<nav>
 				<ul>
