@@ -156,8 +156,6 @@
 		display: grid;
 		grid-template-columns: repeat(4, 1fr);
 		gap: 1rem;
-		margin-inline: 30px;
-		/* width: 100%; */
 	}
 
 	.glass-section article {
